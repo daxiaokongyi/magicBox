@@ -1,0 +1,23 @@
+.magicBall {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.magicBall-ball {
+    height: 10rem;
+    line-height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    color: white;
+    margin: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.magicBall-btn {
+    color: black;
+    background-color: white;
+    border-radius: 0.1rem;
+    padding: 0.3rem;
+}
